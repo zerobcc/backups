@@ -21,3 +21,5 @@ git add -A && git commit -m "$now" && git pull && git push
 echo "Finish!"
 read
 ```
+
+### 测试一下
