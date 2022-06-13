@@ -22,4 +22,6 @@ echo "Finish!"
 read
 ```
 
-### 测试一下
+### new target project
+
+- [new target project](document/new%20target%20project/new%20target%20project.md)
