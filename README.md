@@ -25,3 +25,10 @@ read
 ### new target project
 
 - [new target project](document/new%20target%20project/new%20target%20project.md)
+
+
+### 终端内容输出
+
+```
+otool -l Waha > ~/Desktop/123.txt
+```
