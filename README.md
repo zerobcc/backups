@@ -32,3 +32,14 @@ read
 ```
 otool -l Waha > ~/Desktop/123.txt
 ```
+
+### ATS
+
+```
+<key>NSAppTransportSecurity</key>
+<dict>
+<key>NSAllowsArbitraryLoads</key>
+<true/>
+</dict>
+
+```
